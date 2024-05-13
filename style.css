@@ -48,6 +48,15 @@ body {
 		letter-spacing: 1px !important;
 		text-transform: uppercase;
 	}
+
+	.slider-content h2 {
+		font-size: 60px !important;
+		font-weight: 800;
+		line-height: .9;
+		margin-bottom: 12px;
+		letter-spacing: -3px;
+		text-transform: uppercase;
+	}
 	.uc-game-price{
 		text-align: center;
 	}
