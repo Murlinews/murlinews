@@ -1260,8 +1260,7 @@ ul.minicart .cart-price .new {
 	text-transform: uppercase;
 	position: relative;
 	display: inline-block;
-	padding: 0 18px;
-	padding-top: 44px;
+	
 }
 /*.slider-content h6::before {
 	content: "";
